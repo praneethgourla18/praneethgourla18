@@ -2,7 +2,7 @@
 <h3 align="center">Information technology Under Grad!</h3>
 
 
-- [Portfolio](praneethgourla-portfolio.vercel.app)
+- [Portfolio](https://praneethgourla-portfolio.vercel.app/)
 -  Reach me at **praneethgourla@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
