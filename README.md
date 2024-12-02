@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Praneeth</h1>
-<h3 align="center">Information Technology Undergrad!</h3>
+<h3 align="center">Frontend Developer !</h3>
 
 - [Portfolio](https://praneethgourla-portfolio.vercel.app/)
 - Reach me at **praneethgourla@gmail.com**
